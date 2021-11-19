@@ -1,5 +1,6 @@
 class Person:
-    bag = []
+    def __init__(self):
+        self.bag = []
 
     def put_bag(self, stuff):
         self.bag.append(stuff) # 클래스 이름으로 클래스 속성에 접근
