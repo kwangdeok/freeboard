@@ -13,6 +13,6 @@ maria.put_bag('cosmetic')
 
 print(james.bag)
 print(maria.bag)
-print(Person.bag)
+
 
 
